@@ -9,7 +9,7 @@ module Danbooru
 
     # The name of this Danbooru.
     def app_name
-      "Danbooru"
+      "All Things Moe"
     end
 
     # The hostname of the server.
